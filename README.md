@@ -1,12 +1,30 @@
-# React + Vite
+# 🌱 Ribeira Alert – Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Landing page oficial do **Ribeira Alert**, um projeto social de alerta comunitário para desastres naturais no Vale do Ribeira (SP).
 
-Currently, two official plugins are available:
+🔗 Acesse: [https://dev-viniciusbatistadias.github.io/Ribeira-Alert](https://dev-viniciusbatistadias.github.io/Ribeira-Alert)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Sobre o Projeto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+O Ribeira Alert é uma iniciativa de impacto social que busca proteger comunidades vulneráveis com alertas climáticos acessíveis. Esta landing page apresenta o propósito do projeto, funcionalidades previstas para o aplicativo e convida organizações a se conectarem com a causa.
+
+---
+
+## ✨ Tecnologias
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- Deploy via [GitHub Pages](https://pages.github.com/)
+
+---
+
+## 📦 Instalação local
+
+```bash
+git clone https://github.com/dev-viniciusbatistadias/Ribeira-Alert.git
+cd Ribeira-Alert
+npm install
+npm run dev
